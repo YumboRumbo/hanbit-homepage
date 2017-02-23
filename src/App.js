@@ -4,10 +4,12 @@ import Backgrounds from './components/Backgrounds'
 import Highlights from './components/Highlights'
 import Footer from './components/Footer'
 
+import 'bootstrap/less/bootstrap.less'
+
 class App extends Component {
   render () {
     return (
-      <div className="App">
+      <div>
         <Header />
         <Backgrounds />
         <Highlights />
