@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 
 class Highlights extends Component {
-  render() {
+  render () {
     return (
       <div>
         <h1>This is a highlight.</h1>

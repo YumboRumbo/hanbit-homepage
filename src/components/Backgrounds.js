@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 
 class Backgrounds extends Component {
-  render() {
+  render () {
     return (
       <div>
         <h1>This is a background.</h1>
