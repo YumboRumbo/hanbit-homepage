@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
 
 class Footer extends Component {
-  render() {
+  render () {
     return (
-      <div>
+      <div class="row">
         <h1>This is a footer.</h1>
       </div>
     )
