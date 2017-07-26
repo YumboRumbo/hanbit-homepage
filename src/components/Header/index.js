@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import logo from '../../logo.svg'
+import logo from '../../sdhanbit_logo_medium.png'
 import TopNavLink from './TopNavLink'
 
 const logoStyle = {
